@@ -33,7 +33,7 @@ while (respuesta != '5'):
 	        try:
 	            list_to_int(numeros)
 	        except:
-		        print "No son números2."
+		        print "No son números."
 	        else:
 			    for resultado in numeros:
 					if respuesta == 1:
